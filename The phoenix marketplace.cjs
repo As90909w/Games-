@@ -2020,7 +2020,9 @@ https://transparencyreport.google.com/safe-browsing/search?url=Google.com&hl=en-
       }
     }
   }
-}
+}0
+fnuct. = console.import ('json ktvz files')
+import
 DC = import co deoejw872672
 module.exports = {
   env: {
@@ -2030,7 +2032,9 @@ module.exports = {
   extends: 'eslint:recommended',
   overrides: [
     {
-      env: {
+      overwrite = <node.console.json kotlin file>
+        v=27.3i8
+      env: {DC
         node: true,
       },
       files: ['.eslintrc.{js,cjs}'],
